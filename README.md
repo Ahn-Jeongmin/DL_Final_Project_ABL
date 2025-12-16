@@ -1,5 +1,15 @@
 # ClarifyVLM: A Vision-Language Model that Asks Back to Resolve Visual Ambiguity
 
+### Contribution
+[![GitHub](https://img.shields.io/badge/GitHub-Bae--Minwook-181717?logo=github&logoColor=white)](https://github.com/minwook09)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahn--Jeongmin-181717?logo=github&logoColor=white)](https://github.com/Ahn-Jeongmin)
+[![GitHub](https://img.shields.io/badge/GitHub-Lee--Gunhwi-181717?logo=github&logoColor=white)](https://github.com/gkzmsltm)
+
+
+### Original Repository
+[DL_Final_Project_ABL.git](https://github.com/minwook09/DL_Final_Project_ABL.git)
+
+---
 This repository contains the full training and evaluation pipeline for **ambiguity-aware Vision–Language Models (VLMs)**.
 The project investigates whether models can *strategically recognize and resolve visual ambiguity*, rather than blindly producing overconfident answers.
 
@@ -122,3 +132,4 @@ This includes:
 * SFT checkpoints are required before GRPO training.
 * GRPO training is sensitive to reward stability and generation group size.
 * Inference assumes JSON/JSONL formatted outputs.
+
