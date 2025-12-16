@@ -3,7 +3,7 @@
 ### Contribution
 [![GitHub](https://img.shields.io/badge/GitHub-Bae--Minwook-181717?logo=github&logoColor=white)](https://github.com/minwook09)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahn--Jeongmin-181717?logo=github&logoColor=white)](https://github.com/Ahn-Jeongmin)
-[![GitHub](https://img.shields.io/badge/GitHub-Lee--Gunhwi-181717?logo=github&logoColor=white)](https://github.com/gkzmsltm)
+[![GitHub](https://img.shields.io/badge/GitHub-Lee--Gunhui-181717?logo=github&logoColor=white)](https://github.com/gkzmsltm)
 
 
 ### Original Repository
@@ -132,4 +132,5 @@ This includes:
 * SFT checkpoints are required before GRPO training.
 * GRPO training is sensitive to reward stability and generation group size.
 * Inference assumes JSON/JSONL formatted outputs.
+
 
